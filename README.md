@@ -1,4 +1,5 @@
 # Hash Code Helper
+# I'm trying my best to modify this :)
 
 Helper scripts for developing and running hash code problems.
 
